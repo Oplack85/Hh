@@ -1,7 +1,7 @@
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
+python3 -m JoKeRUB
 pip3 install telebot
 pip3 install python-tgpt
 pip3 install curl_cffi
 python3 aibot.py
-python3 -m JoKeRUB
