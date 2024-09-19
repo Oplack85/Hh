@@ -1,5 +1,7 @@
 telethon
 pydub
+telebot
+python-tgpt
 schedule
 waitress
 gunicorn
