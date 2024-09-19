@@ -1,5 +1,7 @@
 telethon
 pydub
+g4f
+python-tgpt
 waitress
 Flask==2.3.2
 Flask-RESTful==0.3.10
