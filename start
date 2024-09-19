@@ -1,6 +1,3 @@
-pip3 install telebot
-pip3 install python-tgpt
-python3 aibot.py
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
 pip3 install telebot
