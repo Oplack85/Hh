@@ -1,8 +1,4 @@
+python3 aibot.py
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
-pip install telebot
-pip install pytgpt
-pip install python-tgpt
-pip install g4f
-python3 aibot.py
 python3 -m JoKeRUB
