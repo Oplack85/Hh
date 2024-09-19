@@ -1,7 +1,8 @@
 telethon
 pydub
-schedule
 waitress
+Flask==2.3.2
+Flask-RESTful==0.3.10
 gunicorn
 ocrspace
 ShazamAPI
@@ -10,6 +11,7 @@ asyncio
 selenium
 Flask
 flask_restful
+schedule
 setuptools
 wheel
 cloudscraper
@@ -80,7 +82,7 @@ vcsi
 ipaddress
 wand
 ujson==5.8.0
-youtube_dl
+youtube_dl==2021.5.16
 user_agent
 img2html
 googletrans-py
