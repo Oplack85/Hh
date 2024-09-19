@@ -1,4 +1,5 @@
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
+pip install telebot
 python3 aibot.py
 python3 -m JoKeRUB
