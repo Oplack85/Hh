@@ -1,5 +1,6 @@
 telethon
 pydub
+moviepy
 waitress
 Flask==2.3.2
 Flask-RESTful==0.3.10
