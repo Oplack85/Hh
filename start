@@ -1,5 +1,3 @@
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
-pip uninstall moviepy
-pip install moviepy
 python3 -m JoKeRUB
